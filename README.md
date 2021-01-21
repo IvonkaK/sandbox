@@ -30,9 +30,6 @@ or
 
 When accessing the url you should be able to see the instruction on how to generate short link.
 
-## Final note
-
-I have used the database to store information even though it was optional, to demonstrate usage and knowledge of ORM and Repository Pattern.
 
 
 
